@@ -45,7 +45,7 @@
 </table>
 
 
-N.E.: *Not Evaluable* because of memory issues during the training (as in our setting the number of ways is larger that the value typically used).
+N.E.: *Not Evaluable* because of memory issues during the training (as in our setting the number of ways is larger than the value typically used).
 
 The arrows <span>&#8595;</span> indicate the drop in accuracy of the methods evaluated on our realistic few-shot setting compared to the standard setting with balanced 5-way tasks.
 
